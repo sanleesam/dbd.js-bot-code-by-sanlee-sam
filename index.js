@@ -6,7 +6,7 @@ const bot = new dbd.Bot({
 })
 
 bot.onMessage()
-
+//bot code by sanlee sam
 
 bot.command({
   name: 'ping',
